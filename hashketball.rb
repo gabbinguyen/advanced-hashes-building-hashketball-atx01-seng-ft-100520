@@ -13,7 +13,7 @@ def game_hash
          :assists = "12"
          :steals
          :blocks = "1"
-         :slam_ducks = "1"
+         :slam_dunks = "1"
        },
        {:player_name = "Reggie Evans"
         :number = "30"
@@ -23,7 +23,7 @@ def game_hash
         :assists = "12"
         :steals = "12"
         :blocks = "12"
-        :slam_ducks = "7"
+        :slam_dunks = "7"
       },
       {:player_name = "Brook Lopez"
        :number = "11"
@@ -33,7 +33,7 @@ def game_hash
        :assists = "10"
        :steals = "3"
        :blocks = "1"
-       :slam_ducks = "15"
+       :slam_dunks = "15"
      },
      {:player_name = "Mason Plumlee"
       :number = "1"
@@ -53,7 +53,7 @@ def game_hash
      :assists = "2"
      :steals = "4"
      :blocks = "11"
-     :slam_ducks = "1"
+     :slam_dunks = "1"
    }
       ]
     }
@@ -70,7 +70,7 @@ def game_hash
          :assists = ""
          :steals = ""
          :blocks = ""
-         :slam_ducks = ""
+         :slam_dunks = ""
         }
       ]
     }
