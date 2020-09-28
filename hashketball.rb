@@ -43,7 +43,7 @@ def game_hash
       :assists => 6,
       :steals => 3,
       :blocks => 8,
-      :slam_ducks => 5,
+      :slam_dunks => 5,
     },
     {:player_name => "Jason Terry",
      :number => 31,
